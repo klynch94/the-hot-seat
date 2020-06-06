@@ -15,8 +15,8 @@ body {
 }
   
 #members-list img.active {
-    border-color: green;
-
+    border-color: red;
+    border-width: 3px;
 }
 
 .hide {
